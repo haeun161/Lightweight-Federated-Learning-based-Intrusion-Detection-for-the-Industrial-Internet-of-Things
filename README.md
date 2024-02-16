@@ -25,7 +25,8 @@ tion for industries using IoT nodes, ensuring the protection of valuable industr
 ![image](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things/assets/80445078/ae232b92-655e-413c-bbcb-8313bceca255)
 ![image](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things/assets/80445078/2dfdc3c9-7590-4001-8e0f-8c898ef3b3e2)
 
-# Dataset: mapped logs and T-IDs performing an attack (collected by using the VAS Tool based on the 114 selected threat strategies)
+### Dataset:
+mapped logs and T-IDs performing an attack (collected by using the VAS Tool based on the 114 selected threat strategies)
 
 **dataset contains 66 features:**
 process ID and time type, connection information, event information (order, classification, summary, and time), file attributes (name, path, and 
@@ -33,3 +34,13 @@ type), login information, protocol and registry information, detection rules, tr
 
 **classification label:** MITRE ATT&CK Tactics ID & MITRE ATT&CK Techniques ID(used only Tactic ID in this experiment)
 
+# Main Results
+![image](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things/assets/80445078/d6c512b0-f49d-4f48-9137-539f22b2ee32)
+
+# Usage
+
+### Setup
+Install dependencies using `pip install -r requirements.txt`
+
+### Run
+run `python main.py`
