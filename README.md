@@ -34,7 +34,7 @@ type), login information, protocol and registry information, detection rules, tr
 **classification label:** MITRE ATT&CK Tactics ID & MITRE ATT&CK Techniques ID(used only Tactic ID in this experiment)
 
 # Main Results
-![image](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things/assets/80445078/d6c512b0-f49d-4f48-9137-539f22b2ee32)
+![image](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things/assets/80445078/9f607f30-ee9b-4326-b526-eb26200e75ab)
 
 # Usage
 ### Dataset:
