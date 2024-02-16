@@ -1,4 +1,4 @@
-![image](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things/assets/80445078/fddb0314-fa3e-4ea4-aa4b-c30f045718c4)# Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things
+Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things
 Lightweight Federated Learning-based Intrusion Detection for the Industrial Internet of Things
 
 # Abstract
