@@ -26,8 +26,10 @@ tion for industries using IoT nodes, ensuring the protection of valuable industr
 ![image](https://github.com/haeun161/Lightweight-Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things/assets/80445078/2dfdc3c9-7590-4001-8e0f-8c898ef3b3e2)
 
 # Dataset: mapped logs and T-IDs performing an attack (collected by using the VAS Tool based on the 114 selected threat strategies)
+
 **dataset contains 66 features:**
 process ID and time type, connection information, event information (order, classification, summary, and time), file attributes (name, path, and 
 type), login information, protocol and registry information, detection rules, transmission and reception information, SHA256, and window information (class and title)
+
 **classification label:** MITRE ATT&CK Tactics ID & MITRE ATT&CK Techniques ID(used only Tactic ID in this experiment)
 
