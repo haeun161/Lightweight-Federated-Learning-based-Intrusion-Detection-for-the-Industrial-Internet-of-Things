@@ -39,7 +39,7 @@ type), login information, protocol and registry information, detection rules, tr
 
 # Usage
 ### Dataset:
-Uploaded preprocessed data as datset.csv
+used preprocessed data as datset.csv : unopened for privacy easons
 
 ### Setup
 Install dependencies using `pip install -r requirements.txt`
