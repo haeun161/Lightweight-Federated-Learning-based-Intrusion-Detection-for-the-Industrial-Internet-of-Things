@@ -9,7 +9,7 @@ import psutil
 import time
 
 # 데이터셋 불러오기
-dataset = pd.read_csv('dataset.csv', delimiter=',', low_memory=False)
+dataset = pd.read_csv('./gitignore/dataset.csv', delimiter=',', low_memory=False)
 dataset = dataset.select_dtypes(exclude=['object']) # object 형태 제외
 
 # 데이터셋을 행별로 섞기
