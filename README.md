@@ -1,6 +1,7 @@
 # Federated-Learning-based-Intrusion-Detection-for-the-Industrial-Internet-of-Things
 - <b>Paper</b>: Lightweight Federated Learning-based Intrusion Detection for the Industrial Internet of Things
-- <b>Link</b>: https://drive.google.com/file/d/1EKyP1R-QY9vfZc-5DJyQHfQP10riSO3V/view?usp=drive_link 
+- <b>Link</b>: https://drive.google.com/file/d/1EKyP1R-QY9vfZc-5DJyQHfQP10riSO3V/view?usp=drive_link   (needs access permissions)
+
 
 # Abstract
 With the exponential grow of IoT nodes, manufacturing and process industries are in- 
